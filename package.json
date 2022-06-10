@@ -1,0 +1,62 @@
+{
+  "name": "react-native-screen-recorder-detect",
+  "title": "React Native Screen Recorder Detect",
+  "version": "1.0.1",
+  "description": "React Native Screen Recorder Detect",
+  "main": "lib/commonjs/index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "lib",
+    "ios",
+    "react-native-screen-recorder-detect.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "bob build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumyadeephalder/react-native-screen-recorder-detectNew.git",
+    "baseUrl": "https://github.com/soumyadeephalder/react-native-screen-recorder-detectNew"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "deepsoumya",
+    "email": "soumyadeephalder1@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "react-native-builder-bob": "^0.18.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "react-native": "src/index.js",
+  "module": "lib/module/index.js",
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      "commonjs",
+      "module"
+    ]
+  },
+  "eslintIgnore": [
+    "node_modules/",
+    "lib/"
+  ]
+}

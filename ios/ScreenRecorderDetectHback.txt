@@ -1,0 +1,7 @@
+// ScreenRecorderDetect.h
+
+#import <React/RCTBridgeModule.h>
+
+@interface ScreenRecorderDetect : NSObject <RCTBridgeModule>
+
+@end

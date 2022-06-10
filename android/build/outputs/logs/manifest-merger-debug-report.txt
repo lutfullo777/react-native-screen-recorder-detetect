@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:4:11-37
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml:3:11-69
+uses-sdk
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		ADDED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/oksmobiles/Documents/projects/taronatv/node_modules/react-native-screen-recorder-detect/android/src/main/AndroidManifest.xml
