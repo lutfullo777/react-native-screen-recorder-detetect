@@ -45,7 +45,7 @@
     "react-native-builder-bob": "^0.18.1",
     "react-test-renderer": "16.6.3"
   },
-  "react-native": "src/index.js",
+  "react-native": "index.js",
   "module": "lib/module/index.js",
   "react-native-builder-bob": {
     "source": "src",
